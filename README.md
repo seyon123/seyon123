@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom: 15px;" src="https://i.imgur.com/pFtcvO2.jpg">
+<img align="center" style="margin-bottom: 15px;" SRC="banner.gif">
 
 
 <h2> About Me </h2>
@@ -17,7 +17,7 @@
 
 *<i>Note: The Most used languages section just displays the languages mostly used in my GitHub repositories. They are not meant to show my skill level in each language.</i>
 
-<img align="center" style="margin-top: 15px;" src="https://i.imgur.com/Phd0Z4l.jpeg">
+<img align="center" style="margin-top: 15px;" src="banner2.jpg">
 </br></br>
 
 <p align="center">
