@@ -15,8 +15,6 @@
 ![Seyon's github stats](https://github-readme-stats.vercel.app/api?username=seyon123&count_private=true&hide=prs&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seyon123&layout=compact)
 
-*<i>Note: The Most used languages section just displays the languages mostly used in my GitHub repositories. They are not meant to show my skill level in each language.</i>
-
 <img align="center" style="margin-top: 15px;" src="banner2.jpg">
 </br></br>
 
