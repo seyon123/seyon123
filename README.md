@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" style="margin-top: 15px;" src="banner.gif">
+	<img align="center" style="margin-top: 15px;" src="banner.gif">
 </p>
 
 ---
@@ -15,7 +15,6 @@
 -   📃 Check out my [resume](https://seyonrajagopal.ca/resume.pdf).
 -   💬 Reach out to me [here](mailto:seyon.rajagopal@ryerson.ca).
 
-</br>
 
 <h2> 🚀 Some Tools I Use: </h2>
 
@@ -30,7 +29,6 @@
 <a href="#" title="GitHub"><code><img alt="GitHub" width="20px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code></a>
 <a href="#" title="Terminal"><code><img alt="Terminal" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code></a>
 
-</br></br>
 
 <details>
 	<summary style="margin-bottom: 15px;">📈 My GitHub Stats</summary>
@@ -38,9 +36,10 @@
 </details>
 
 ---
-
-<p align="center">
+<div align="center">
 	<img align="center" style="margin-bottom: 15px;" src="banner2.jpg">
+</div>
+<p align="center">
 	<a href="https://www.linkedin.com/in/seyon-rajagopal"><img src="https://img.shields.io/badge/Seyon Rajagopal-Let's Connect!-indigo?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>	
 	<a href="https://seyonrajagopal.ca"><img src="https://img.shields.io/badge/Website-Check out my Website-indigo?style=for-the-badge&logo=safari" alt="Website"></a>
 </p>
