@@ -1,5 +1,5 @@
 <p align="center">
-	<img align="center" style="margin-top: 15px;" src="banner.gif">
+	<img align="center" style="margin-top: 15px; width: 100%"  src="banner.gif">
 </p>
 
 ---
@@ -37,8 +37,9 @@
 
 ---
 <div align="center">
-	<img align="center" style="margin-bottom: 15px;" src="banner2.jpg">
+	<img align="center" style="margin-bottom: 15px; width: 100%" src="banner2.jpg">
 </div>
+<br>
 <p align="center">
 	<a href="https://www.linkedin.com/in/seyon-rajagopal"><img src="https://img.shields.io/badge/Seyon Rajagopal-Let's Connect!-indigo?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>	
 	<a href="https://seyonrajagopal.ca"><img src="https://img.shields.io/badge/Website-Check out my Website-indigo?style=for-the-badge&logo=safari" alt="Website"></a>
